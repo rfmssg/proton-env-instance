@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "4e4e0b1d-44fb-44f0-ab8c-8cc8167f19ef",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-1:823983898304:environment/rosa4demo",
     "templateArn" : "arn:aws:proton:eu-west-1:823983898304:environment-template/rosa-aws",
